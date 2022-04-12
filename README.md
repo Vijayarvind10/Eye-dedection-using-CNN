@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Vijayarvind10
-- 👀 I’m interested in Machine learning and data science.
-- 🌱 I’m currently learning Machine learning in R and python
 
 
 <!---
